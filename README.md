@@ -12,13 +12,13 @@ This project aims to detect and estimate crowd density in video footage using co
 - Option for ROI (Region of Interest) selection to limit analysis to specific zones
 
 ## Technologies Used
-Python
-OpenCV (cv2) – for video processing and frame extraction
-NumPy – for numerical operations
-Pandas – for data handling and logging
-Matplotlib – for visualization
-Scipy – for calculating spatial distances
-Ultralytics YOLO – for object detection (people detection)
-Torch (PyTorch) – as backend for YOLO model
-Google Colab – for notebook execution and file handling
+- Python
+- OpenCV (cv2) – for video processing and frame extraction
+- NumPy – for numerical operations
+- Pandas – for data handling and logging
+- Matplotlib – for visualization
+- Scipy – for calculating spatial distances
+- Ultralytics YOLO – for object detection (people detection)
+- Torch (PyTorch) – as backend for YOLO model
+- Google Colab – for notebook execution and file handling
 
